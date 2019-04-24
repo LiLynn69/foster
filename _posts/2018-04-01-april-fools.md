@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nates new site
+title: Nates first news
 ---
 
 blah, blah, blah, fdsajkljkla.
