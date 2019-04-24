@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Nates first news
+title: Nates First Story
 ---
 
-blah, blah, blah, fdsajkljkla.
-fajkljkdsaljlkjalkjfalj.
+jklj jkdask fsdjkl sdf jklsf lkj sdfjl.
+lfdaksj klf lkj lsafk lk jfkl.
 
 Very exciting!
